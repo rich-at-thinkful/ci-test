@@ -1,0 +1,11 @@
+## Specs for the Add Function
+
+The add method:
+
+* should return 4 when given 2 and 2
+* should return 1000 when given 900 and 100
+* should return 10 when given 20 and -10
+* should return 0 when given 0 and 0
+
+The sub method:
+...

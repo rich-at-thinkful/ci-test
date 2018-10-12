@@ -1,0 +1,23 @@
+{
+	"name": "node-demos",
+	"version": "0.0.1",
+	"license": "MIT",
+	"author": "Chris Klanac",
+	"repository": {
+		"type": "git"
+	},
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js",
+		"test": "mocha"
+	},
+	"dependencies": {
+		"express": "^4.16.3",
+		"morgan": "^1.9.0"
+	},
+	"devDependencies": {
+		"chai": "^4.1.2",
+		"chai-http": "^4.0.0",
+		"mocha": "^5.2.0"
+	}
+}
